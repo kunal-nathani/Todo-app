@@ -1,6 +1,6 @@
 # TODO App
 
-This is a simple TODO (To-Do) application built using [insert technology stack or framework here]. The app allows you to manage your tasks, mark them as completed, and organize your daily activities efficiently.
+This is a simple TODO (To-Do) application built using Nodejs,HTML,CSS,JS. The app allows you to manage your tasks, mark them as completed, and organize your daily activities efficiently.
 
 ## Features
 
